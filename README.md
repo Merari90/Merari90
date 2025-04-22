@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning ..... <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles [https://arxiv.org/abs/2006.07980)
+- 📝 I regularly write articles:
+- Application of Data Science to Discover the Relationship between Dental Caries and Diabetes in Dental Records (HIMS 2016), Las Vegas, NV, USA. (https://goo.su/6nioCrV)
+- Application of Data Science to Discover Violence-Related Issues in Iraq. Junio 2020 (https://arxiv.org/abs/2006.07980)
 
 - 💬 Ask me about **Data, Machine Learning, Intelligence Artificial, Algorithms, Predictions, Clasification,**
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **iscmera@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
