@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles:
 - Application of Data Science to Discover the Relationship between Dental Caries and Diabetes in Dental Records (HIMS 2016), Las Vegas, NV, USA. (https://goo.su/6nioCrV)
-- Application of Data Science to Discover Violence-Related Issues in Iraq. Junio 2020 (https://arxiv.org/abs/2006.07980)
+- Application of Data Science to Discover Violence-Related Issues in Iraq. (https://arxiv.org/abs/2006.07980)
 
 - 💬 Ask me about **Data, Machine Learning, Intelligence Artificial, Algorithms, Predictions, Clasification,**
 
@@ -29,13 +29,7 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/merari-gonzález">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	
-     		
-  <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-     
-
+		        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
   </div>
 
 
