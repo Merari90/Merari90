@@ -9,7 +9,7 @@
 
 - 🤝 I’m available for full time.
 
-- 🌱 I’m currently learning ..... <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning ...
 
 - 📝 I regularly write articles:
 - Application of Data Science to Discover the Relationship between Dental Caries and Diabetes in Dental Records (HIMS 2016), Las Vegas, NV, USA. (https://goo.su/6nioCrV)
